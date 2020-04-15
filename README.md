@@ -1,5 +1,5 @@
 <p align="center">![home-header.png](https://i.loli.net/2020/04/15/jpuF4U1Y9RrMBdZ.png)</p>
-
+<p align='center'><a href="http://pigxw.top/shop-online" target="_blank" rel="noopener noreferrer"><img width="100" src="https://i.loli.net/2020/04/15/jpuF4U1Y9RrMBdZ.png" alt="shopOnline logo"></a></p>
 <h1 align="center">vue商城后台管理系统</h1>
 
 **功能：**
