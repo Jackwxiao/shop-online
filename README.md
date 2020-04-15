@@ -1,4 +1,4 @@
-<h1 align="center">vue商城后台管理系统></h1>
+<h1 align="center">vue商城后台管理系统</h1>
 
 **功能：**
 
