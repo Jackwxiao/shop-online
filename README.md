@@ -1,3 +1,5 @@
+<p align="center">![home-header.png](https://i.loli.net/2020/04/15/jpuF4U1Y9RrMBdZ.png)</p>
+
 <h1 align="center">vue商城后台管理系统</h1>
 
 **功能：**
